@@ -9,8 +9,8 @@
 
 <channel>
 	<title>未分類 &#8211; MDVI</title>
-	<atom:link href="/https://raymond-hsu0902.github.io/github_wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://raymond-hsu0902.github.io/github_wordpress</link>
+	<atom:link href="https://raymond-hsu0902.github.io/github_wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://raymond-hsu0902.github.io/github_wordpress</link>
 	<description>全新的繁體中文 WordPress 網站</description>
 	<lastBuildDate>Sun, 23 May 2021 02:51:22 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>銀髮志工合作</title>
-		<link>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e9%8a%80%e9%ab%ae%e5%bf%97%e5%b7%a5%e5%90%88%e4%bd%9c/</link>
-					<comments>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e9%8a%80%e9%ab%ae%e5%bf%97%e5%b7%a5%e5%90%88%e4%bd%9c/#respond</comments>
+		<link>https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e9%8a%80%e9%ab%ae%e5%bf%97%e5%b7%a5%e5%90%88%e4%bd%9c/</link>
+					<comments>https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e9%8a%80%e9%ab%ae%e5%bf%97%e5%b7%a5%e5%90%88%e4%bd%9c/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 13 May 2021 11:50:52 +0000</pubDate>
 				<category><![CDATA[協會服務]]></category>
 		<category><![CDATA[志工培育]]></category>
 		<category><![CDATA[未分類]]></category>
-		<guid isPermaLink="false">/https://raymond-hsu0902.github.io/github_wordpress/?p=52</guid>
+		<guid isPermaLink="false">https://raymond-hsu0902.github.io/github_wordpress/?p=52</guid>
 
 					<description><![CDATA[年華漸老，錦瑟猶懸，非若平湖，細水纏綿。生命，不論殘老，皆在愛與被愛之間，承擔，相忘，重逢，圓滿。]]></description>
 										<content:encoded><![CDATA[
@@ -57,24 +57,24 @@
 
 
 
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="574" height="1024" src="/https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/38921051_2684920848200530_3309295468621594624_n-574x1024.jpg" alt="" data-id="195" data-full-url="/https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/38921051_2684920848200530_3309295468621594624_n.jpg" data-link="/https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e9%8a%80%e9%ab%ae%e5%bf%97%e5%b7%a5%e5%90%88%e4%bd%9c/38921051_2684920848200530_3309295468621594624_n/" class="wp-image-195" srcset="/https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/38921051_2684920848200530_3309295468621594624_n-574x1024.jpg 574w, /https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/38921051_2684920848200530_3309295468621594624_n-168x300.jpg 168w, /https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/38921051_2684920848200530_3309295468621594624_n-768x1370.jpg 768w, /https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/38921051_2684920848200530_3309295468621594624_n-861x1536.jpg 861w, /https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/38921051_2684920848200530_3309295468621594624_n.jpg 958w" sizes="(max-width: 574px) 100vw, 574px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="/https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39013017_2684920858200529_3661268575399706624_n-1024x768.jpg" alt="" data-id="196" data-full-url="/https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39013017_2684920858200529_3661268575399706624_n.jpg" data-link="/https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e9%8a%80%e9%ab%ae%e5%bf%97%e5%b7%a5%e5%90%88%e4%bd%9c/39013017_2684920858200529_3661268575399706624_n/" class="wp-image-196" srcset="/https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39013017_2684920858200529_3661268575399706624_n-1024x768.jpg 1024w, /https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39013017_2684920858200529_3661268575399706624_n-300x225.jpg 300w, /https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39013017_2684920858200529_3661268575399706624_n-768x576.jpg 768w, /https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39013017_2684920858200529_3661268575399706624_n.jpg 1478w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="/https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39079828_2684920901533858_5828047003199733760_n-1024x768.jpg" alt="" data-id="197" data-full-url="/https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39079828_2684920901533858_5828047003199733760_n.jpg" data-link="/https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e9%8a%80%e9%ab%ae%e5%bf%97%e5%b7%a5%e5%90%88%e4%bd%9c/39079828_2684920901533858_5828047003199733760_n/" class="wp-image-197" srcset="/https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39079828_2684920901533858_5828047003199733760_n-1024x768.jpg 1024w, /https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39079828_2684920901533858_5828047003199733760_n-300x225.jpg 300w, /https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39079828_2684920901533858_5828047003199733760_n-768x576.jpg 768w, /https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39079828_2684920901533858_5828047003199733760_n.jpg 1478w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="574" height="1024" src="https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/38921051_2684920848200530_3309295468621594624_n-574x1024.jpg" alt="" data-id="195" data-full-url="https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/38921051_2684920848200530_3309295468621594624_n.jpg" data-link="https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e9%8a%80%e9%ab%ae%e5%bf%97%e5%b7%a5%e5%90%88%e4%bd%9c/38921051_2684920848200530_3309295468621594624_n/" class="wp-image-195" srcset="https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/38921051_2684920848200530_3309295468621594624_n-574x1024.jpg 574w, https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/38921051_2684920848200530_3309295468621594624_n-168x300.jpg 168w, https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/38921051_2684920848200530_3309295468621594624_n-768x1370.jpg 768w, https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/38921051_2684920848200530_3309295468621594624_n-861x1536.jpg 861w, https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/38921051_2684920848200530_3309295468621594624_n.jpg 958w" sizes="(max-width: 574px) 100vw, 574px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39013017_2684920858200529_3661268575399706624_n-1024x768.jpg" alt="" data-id="196" data-full-url="https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39013017_2684920858200529_3661268575399706624_n.jpg" data-link="https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e9%8a%80%e9%ab%ae%e5%bf%97%e5%b7%a5%e5%90%88%e4%bd%9c/39013017_2684920858200529_3661268575399706624_n/" class="wp-image-196" srcset="https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39013017_2684920858200529_3661268575399706624_n-1024x768.jpg 1024w, https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39013017_2684920858200529_3661268575399706624_n-300x225.jpg 300w, https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39013017_2684920858200529_3661268575399706624_n-768x576.jpg 768w, https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39013017_2684920858200529_3661268575399706624_n.jpg 1478w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="768" src="https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39079828_2684920901533858_5828047003199733760_n-1024x768.jpg" alt="" data-id="197" data-full-url="https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39079828_2684920901533858_5828047003199733760_n.jpg" data-link="https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e9%8a%80%e9%ab%ae%e5%bf%97%e5%b7%a5%e5%90%88%e4%bd%9c/39079828_2684920901533858_5828047003199733760_n/" class="wp-image-197" srcset="https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39079828_2684920901533858_5828047003199733760_n-1024x768.jpg 1024w, https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39079828_2684920901533858_5828047003199733760_n-300x225.jpg 300w, https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39079828_2684920901533858_5828047003199733760_n-768x576.jpg 768w, https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/39079828_2684920901533858_5828047003199733760_n.jpg 1478w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e9%8a%80%e9%ab%ae%e5%bf%97%e5%b7%a5%e5%90%88%e4%bd%9c/feed/</wfw:commentRss>
+					<wfw:commentRss>https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e9%8a%80%e9%ab%ae%e5%bf%97%e5%b7%a5%e5%90%88%e4%bd%9c/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>婷的故事(一)</title>
-		<link>/https://raymond-hsu0902.github.io/github_wordpress/2021/03/21/lifestory/</link>
-					<comments>/https://raymond-hsu0902.github.io/github_wordpress/2021/03/21/lifestory/#comments</comments>
+		<link>https://raymond-hsu0902.github.io/github_wordpress/2021/03/21/lifestory/</link>
+					<comments>https://raymond-hsu0902.github.io/github_wordpress/2021/03/21/lifestory/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 21 Mar 2021 02:37:48 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
 		<category><![CDATA[視多障生命故事]]></category>
-		<guid isPermaLink="false">/https://raymond-hsu0902.github.io/github_wordpress/?p=1</guid>
+		<guid isPermaLink="false">https://raymond-hsu0902.github.io/github_wordpress/?p=1</guid>
 
 					<description><![CDATA[視多障者的人生往往是糊成一片的，小六的年紀讀小三，高中的年紀讀國中。緩讀，是一場與時間的拔河，沒有裁判說開始，也沒有人會喊結束，而時間，注定是贏家。]]></description>
 										<content:encoded><![CDATA[
@@ -101,7 +101,7 @@
 <p>&nbsp;&nbsp;&nbsp; 從小到大，婷並未沒住過家以外的地方，之前媽媽曾跟教保員討論希望讓婷一個禮拜住校一天試試看，僅僅只是討論，但婷聽到後情緒便直接潰堤了，對婷而言，失去了家，失去父母一貫的聲音，形同在黑暗中喪失了觸覺，連自己的存在都無法感知。這樣的婷，讓婷的父母不捨卻也擔心，婷沒有兄弟姊妹，萬一老了，身體出狀況了，誰能照顧婷?這似乎是一道永恆的命題，橫亙視多障者與家人的生命裡，沒人知道試卷甚麼時候會發下來，甚至，沒人知道答案究竟是甚麼?</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://raymond-hsu0902.github.io/github_wordpress/2021/03/21/lifestory/feed/</wfw:commentRss>
+					<wfw:commentRss>https://raymond-hsu0902.github.io/github_wordpress/2021/03/21/lifestory/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

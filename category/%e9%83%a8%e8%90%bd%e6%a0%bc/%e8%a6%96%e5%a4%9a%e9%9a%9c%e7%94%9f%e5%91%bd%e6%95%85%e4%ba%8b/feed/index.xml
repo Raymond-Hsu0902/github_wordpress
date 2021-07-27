@@ -9,8 +9,8 @@
 
 <channel>
 	<title>視多障生命故事 &#8211; MDVI</title>
-	<atom:link href="/https://raymond-hsu0902.github.io/github_wordpress/category/%E9%83%A8%E8%90%BD%E6%A0%BC/%E8%A6%96%E5%A4%9A%E9%9A%9C%E7%94%9F%E5%91%BD%E6%95%85%E4%BA%8B/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://raymond-hsu0902.github.io/github_wordpress</link>
+	<atom:link href="https://raymond-hsu0902.github.io/github_wordpress/category/%E9%83%A8%E8%90%BD%E6%A0%BC/%E8%A6%96%E5%A4%9A%E9%9A%9C%E7%94%9F%E5%91%BD%E6%95%85%E4%BA%8B/feed/" rel="self" type="application/rss+xml" />
+	<link>https://raymond-hsu0902.github.io/github_wordpress</link>
 	<description>全新的繁體中文 WordPress 網站</description>
 	<lastBuildDate>Sun, 23 May 2021 00:21:54 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>婷的故事(四)</title>
-		<link>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e5%9b%9b/</link>
-					<comments>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e5%9b%9b/#respond</comments>
+		<link>https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e5%9b%9b/</link>
+					<comments>https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e5%9b%9b/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 13 May 2021 11:53:30 +0000</pubDate>
 				<category><![CDATA[視多障生命故事]]></category>
-		<guid isPermaLink="false">/https://raymond-hsu0902.github.io/github_wordpress/?p=56</guid>
+		<guid isPermaLink="false">https://raymond-hsu0902.github.io/github_wordpress/?p=56</guid>
 
 					<description><![CDATA[&#160;&#160;&#160; 「上了小學，會開始擔心她跟其他老師相處&#8230;.」婷的媽媽正說著， [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -50,20 +50,20 @@
 <p>&nbsp;&nbsp;&nbsp; 婷的故事或許說完了，生命的試卷卻未結束。婷說了，到了2106年，她用她最厲害的數學算過，她會變成人瑞，會變成天使，而婷的父母會陪在她身旁，循著黑暗中的微光，到那片有彩虹，有光亮的天空。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e5%9b%9b/feed/</wfw:commentRss>
+					<wfw:commentRss>https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e5%9b%9b/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>婷的故事(三)</title>
-		<link>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e4%b8%89/</link>
-					<comments>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e4%b8%89/#respond</comments>
+		<link>https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e4%b8%89/</link>
+					<comments>https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e4%b8%89/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 13 May 2021 11:52:18 +0000</pubDate>
 				<category><![CDATA[視多障生命故事]]></category>
-		<guid isPermaLink="false">/https://raymond-hsu0902.github.io/github_wordpress/?p=54</guid>
+		<guid isPermaLink="false">https://raymond-hsu0902.github.io/github_wordpress/?p=54</guid>
 
 					<description><![CDATA[數字，是婷在沒有方向的漆黑之中唯一能依循的規律。婷從小就對數字敏感，自己學會了加法，知道個十百千萬，甚至能自己 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -82,24 +82,24 @@
 <p>&nbsp;&nbsp;&nbsp; 成為定向老師之後，婷的媽媽不只改變了心態，也改變了家裡的樣態，將玄關的門檻拆掉，做成無障礙設施。也替婷設計了遊戲室，紅色是走道，黃色是遊戲區，因為婷還有些微的色覺，不會在遊戲室中撞到。種種的改變，不僅僅是為了婷，同時也是為了自己。沒有人一開始就知道如何當視多障孩子的父母，都是在陪伴的過程裡，學著溝通，學著了解，學著如何為了愛去改變。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e4%b8%89/feed/</wfw:commentRss>
+					<wfw:commentRss>https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e4%b8%89/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>婷的故事(二)</title>
-		<link>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e4%ba%8c/</link>
-					<comments>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e4%ba%8c/#respond</comments>
+		<link>https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e4%ba%8c/</link>
+					<comments>https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e4%ba%8c/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 13 May 2021 11:46:17 +0000</pubDate>
 				<category><![CDATA[視多障生命故事]]></category>
-		<guid isPermaLink="false">/https://raymond-hsu0902.github.io/github_wordpress/?p=50</guid>
+		<guid isPermaLink="false">https://raymond-hsu0902.github.io/github_wordpress/?p=50</guid>
 
 					<description><![CDATA[幾處微光透著，若有似無，感受到的似乎仍是黑暗的冰冷。婷的視界並不像全盲者一般漆黑，而是破碎性的視野，無法完整的 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/路跑61-768x1024.jpg" alt="" class="wp-image-11" width="228" height="303" srcset="/https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/路跑61-768x1024.jpg 768w, /https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/路跑61-225x300.jpg 225w, /https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/路跑61.jpg 1108w" sizes="(max-width: 228px) 100vw, 228px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/路跑61-768x1024.jpg" alt="" class="wp-image-11" width="228" height="303" srcset="https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/路跑61-768x1024.jpg 768w, https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/路跑61-225x300.jpg 225w, https://raymond-hsu0902.github.io/github_wordpress/wp-content/uploads/2021/05/路跑61.jpg 1108w" sizes="(max-width: 228px) 100vw, 228px" /></figure>
 
 
 
@@ -126,21 +126,21 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e4%ba%8c/feed/</wfw:commentRss>
+					<wfw:commentRss>https://raymond-hsu0902.github.io/github_wordpress/2021/05/13/%e5%a9%b7%e7%9a%84%e6%95%85%e4%ba%8b%e4%ba%8c/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>婷的故事(一)</title>
-		<link>/https://raymond-hsu0902.github.io/github_wordpress/2021/03/21/lifestory/</link>
-					<comments>/https://raymond-hsu0902.github.io/github_wordpress/2021/03/21/lifestory/#comments</comments>
+		<link>https://raymond-hsu0902.github.io/github_wordpress/2021/03/21/lifestory/</link>
+					<comments>https://raymond-hsu0902.github.io/github_wordpress/2021/03/21/lifestory/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 21 Mar 2021 02:37:48 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
 		<category><![CDATA[視多障生命故事]]></category>
-		<guid isPermaLink="false">/https://raymond-hsu0902.github.io/github_wordpress/?p=1</guid>
+		<guid isPermaLink="false">https://raymond-hsu0902.github.io/github_wordpress/?p=1</guid>
 
 					<description><![CDATA[視多障者的人生往往是糊成一片的，小六的年紀讀小三，高中的年紀讀國中。緩讀，是一場與時間的拔河，沒有裁判說開始，也沒有人會喊結束，而時間，注定是贏家。]]></description>
 										<content:encoded><![CDATA[
@@ -167,7 +167,7 @@
 <p>&nbsp;&nbsp;&nbsp; 從小到大，婷並未沒住過家以外的地方，之前媽媽曾跟教保員討論希望讓婷一個禮拜住校一天試試看，僅僅只是討論，但婷聽到後情緒便直接潰堤了，對婷而言，失去了家，失去父母一貫的聲音，形同在黑暗中喪失了觸覺，連自己的存在都無法感知。這樣的婷，讓婷的父母不捨卻也擔心，婷沒有兄弟姊妹，萬一老了，身體出狀況了，誰能照顧婷?這似乎是一道永恆的命題，橫亙視多障者與家人的生命裡，沒人知道試卷甚麼時候會發下來，甚至，沒人知道答案究竟是甚麼?</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://raymond-hsu0902.github.io/github_wordpress/2021/03/21/lifestory/feed/</wfw:commentRss>
+					<wfw:commentRss>https://raymond-hsu0902.github.io/github_wordpress/2021/03/21/lifestory/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

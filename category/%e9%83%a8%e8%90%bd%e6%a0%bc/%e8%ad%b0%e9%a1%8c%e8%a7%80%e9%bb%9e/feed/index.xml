@@ -9,8 +9,8 @@
 
 <channel>
 	<title>議題觀點 &#8211; MDVI</title>
-	<atom:link href="/https://raymond-hsu0902.github.io/github_wordpress/category/%E9%83%A8%E8%90%BD%E6%A0%BC/%E8%AD%B0%E9%A1%8C%E8%A7%80%E9%BB%9E/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://raymond-hsu0902.github.io/github_wordpress</link>
+	<atom:link href="https://raymond-hsu0902.github.io/github_wordpress/category/%E9%83%A8%E8%90%BD%E6%A0%BC/%E8%AD%B0%E9%A1%8C%E8%A7%80%E9%BB%9E/feed/" rel="self" type="application/rss+xml" />
+	<link>https://raymond-hsu0902.github.io/github_wordpress</link>
 	<description>全新的繁體中文 WordPress 網站</description>
 	<lastBuildDate>Sun, 23 May 2021 02:33:41 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>視障教育</title>
-		<link>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/23/%e8%a6%96%e9%9a%9c%e6%95%99%e8%82%b2/</link>
-					<comments>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/23/%e8%a6%96%e9%9a%9c%e6%95%99%e8%82%b2/#respond</comments>
+		<link>https://raymond-hsu0902.github.io/github_wordpress/2021/05/23/%e8%a6%96%e9%9a%9c%e6%95%99%e8%82%b2/</link>
+					<comments>https://raymond-hsu0902.github.io/github_wordpress/2021/05/23/%e8%a6%96%e9%9a%9c%e6%95%99%e8%82%b2/#respond</comments>
 		
 		<dc:creator><![CDATA[Hsu Arthur]]></dc:creator>
 		<pubDate>Sun, 23 May 2021 02:33:41 +0000</pubDate>
 				<category><![CDATA[議題觀點]]></category>
-		<guid isPermaLink="false">/https://raymond-hsu0902.github.io/github_wordpress/?p=165</guid>
+		<guid isPermaLink="false">https://raymond-hsu0902.github.io/github_wordpress/?p=165</guid>
 
 					<description><![CDATA[視障生在學習的過程中一直被忽視的原因，多半是起於我們明眼人主觀的認定]]></description>
 										<content:encoded><![CDATA[
@@ -46,7 +46,7 @@
 <p>學習是一項基本人權,那我們要努力的就是提供給視障生公平的學習機會與資源,使平日不易取得資源的視障生,能夠增加學習的機會,獲得與一般明眼學生一樣充足的學習資源。讓視障生得以與一般非視障生共同學習學科的課程並且參與其中，並提供因個別差異所需的一切資源，而非以明眼人的偏見剝奪視障生的學習機會。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/23/%e8%a6%96%e9%9a%9c%e6%95%99%e8%82%b2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://raymond-hsu0902.github.io/github_wordpress/2021/05/23/%e8%a6%96%e9%9a%9c%e6%95%99%e8%82%b2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
