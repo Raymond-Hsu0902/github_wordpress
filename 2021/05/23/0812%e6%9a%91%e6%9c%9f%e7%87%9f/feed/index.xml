@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	〈0812暑期營〉的留言	</title>
+	<atom:link href="/https://raymond-hsu0902.github.io/github_wordpress/2021/05/23/0812%E6%9A%91%E6%9C%9F%E7%87%9F/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/23/0812%e6%9a%91%e6%9c%9f%e7%87%9f/</link>
+	<description>全新的繁體中文 WordPress 網站</description>
+	<lastBuildDate>Sun, 23 May 2021 02:47:47 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+</channel>
+</rss>

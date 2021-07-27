@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>議題觀點 &#8211; MDVI</title>
+	<atom:link href="/https://raymond-hsu0902.github.io/github_wordpress/category/%E9%83%A8%E8%90%BD%E6%A0%BC/%E8%AD%B0%E9%A1%8C%E8%A7%80%E9%BB%9E/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://raymond-hsu0902.github.io/github_wordpress</link>
+	<description>全新的繁體中文 WordPress 網站</description>
+	<lastBuildDate>Sun, 23 May 2021 02:33:41 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>視障教育</title>
+		<link>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/23/%e8%a6%96%e9%9a%9c%e6%95%99%e8%82%b2/</link>
+					<comments>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/23/%e8%a6%96%e9%9a%9c%e6%95%99%e8%82%b2/#respond</comments>
+		
+		<dc:creator><![CDATA[Hsu Arthur]]></dc:creator>
+		<pubDate>Sun, 23 May 2021 02:33:41 +0000</pubDate>
+				<category><![CDATA[議題觀點]]></category>
+		<guid isPermaLink="false">/https://raymond-hsu0902.github.io/github_wordpress/?p=165</guid>
+
+					<description><![CDATA[視障生在學習的過程中一直被忽視的原因，多半是起於我們明眼人主觀的認定]]></description>
+										<content:encoded><![CDATA[
+<p>對我們那麼依賴視覺的明眼人而言，幾乎所有的學習都是透過了「看」來建立認知。視障生在學習的過程中一直被忽視的原因，多半是起於我們明眼人主觀的認定，原因不外乎是我們認為喪失視力就無法涉足於許許多多需要仰賴視力學習的領域，經訪談詢問，有些視障生表示有些課程(化學實驗、家政課、體育等)被任課老師要求不得參與，理由是危險性太高；很多視障生家長表示，在選擇入學時，雖法律明定不得拒絕入學，但學校會以資源師資設備不足，或要求家長陪讀等理由委婉拒絕，讓家長感到挫折失望，又不敢申訴，怕孩子入學後受到視而不見的待遇。</p>
+
+
+
+<p>事實上，以美術教育為例，在國外，為了使視障生也能參與美術課程，老師特地在畫作中加入了不同質感的材料，希望利用觸覺與嗅覺來讓視障生感受畫作之美，而在製作作品方面，老師要求學生創造出一幅風景畫，有名視障生利用棉花製作出了雲，用砂紙製造出了沙灘，用鵝卵石製作出了懸崖，每一顆鵝卵石都是由視障生親自挑選，在過程中，視障生亦能享受創作的樂趣。也因為老師在教學的過程中顧及了視障生的權益，其他同學也因此主動地來找老師，希望他們的畫作中能加入觸覺的部分，也會興奮地帶著視障生，一邊帶著視障生的手摸，一邊介紹畫作中的內容。</p>
+
+
+
+<p>在體育課方面，國外的教學方法不在於讓視障生有辦法上場跟明眼人一同運動，而是在於給視障生體驗運動的感覺，例如丟球時要如何抓住球，手腕該如何擺動等等，視障生在體育課中，也可了解運動的規則及其背後所代表的意義等等，了解這些知識對於視障者來說相當重要，因為視障者是能透過球賽主播的報導來得知比賽的進程，能成為視障者的娛樂之一，甚至能藉此來撰寫體育新聞，國外也確實有盲人的體育新聞記者，但在台灣，學校連學習的機會都不給與，視障者自然不會對此產生興趣，更遑論以此做為職業了。</p>
+
+
+
+<p>學習是一項基本人權,那我們要努力的就是提供給視障生公平的學習機會與資源,使平日不易取得資源的視障生,能夠增加學習的機會,獲得與一般明眼學生一樣充足的學習資源。讓視障生得以與一般非視障生共同學習學科的課程並且參與其中，並提供因個別差異所需的一切資源，而非以明眼人的偏見剝奪視障生的學習機會。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/23/%e8%a6%96%e9%9a%9c%e6%95%99%e8%82%b2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	〈0314 喘息/路跑活動〉的留言	</title>
+	<atom:link href="/https://raymond-hsu0902.github.io/github_wordpress/2021/05/23/0314-%E5%96%98%E6%81%AF-%E8%B7%AF%E8%B7%91%E6%B4%BB%E5%8B%95/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://raymond-hsu0902.github.io/github_wordpress/2021/05/23/0314-%e5%96%98%e6%81%af-%e8%b7%af%e8%b7%91%e6%b4%bb%e5%8b%95/</link>
+	<description>全新的繁體中文 WordPress 網站</description>
+	<lastBuildDate>Sun, 23 May 2021 02:41:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+</channel>
+</rss>
